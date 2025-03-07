@@ -3,7 +3,8 @@
 
 *A suite of tools and data in support of predictive fire modeling.*
 
-The tools within FACT can rapidly determine material parameter inputs needed for making robust and accurate computational predictions of fire growth for a broad range of materials. Such predictions can support the development of reduced flammability materials and a safer built environment.
+The tools within FACT can rapidly determine material parameter inputs needed for making robust and accurate computational predictions of fire growth for a broad range of materials. Such predictions can support the development of reduced flammability materials and a safer built environment. 
+These tools are developed as part of the [NIST Material Flammabiilty Characterization Project](https://www.nist.gov/programs-projects/material-flammability-characterization). Related FACT publications and overview presentations are [https://www.nist.gov/programs-projects/automated-tools-material-property-calibration](available online).
 
 Note that FACT is still in development. Currently, tools exist for 
 1. Extracting pyrolysis kinetic parameters from thermogravimetric analysis (TGA) data, 
